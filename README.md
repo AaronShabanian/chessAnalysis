@@ -2,7 +2,7 @@
 # MachineLearningAssignment5
 1.) Identifying Information <br>
   a. Full Name: Aaron Shabanian, Matthew Olivo, Julian Lange <br>
-  b. Student ID: 2314391 <br>
+  b. Student ID: 2314391, 2314084, 2286824 <br>
   c. Chapman email: shabanian@chapman.edu, molivo@chapman.edu, julange@chapman.edu <br>
   d. Course number and section: 393-01 <br>
   e. Assignment Number: Final Project <br>
